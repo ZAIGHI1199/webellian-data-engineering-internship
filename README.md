@@ -32,3 +32,7 @@ webellian-data-pipeline/
 │   └── analytics.py         # SQL insight generation
 ├── requirements.txt         # Dependencies
 └── README.md
+
+
+
+I made a zip file and uploaded of complete task too. can be directly downloaded if needed.
